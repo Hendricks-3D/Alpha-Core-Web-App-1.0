@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
           {/* Logo showcase */}
           <div className="mb-5">
             <Image
-              src="/Alphacore Devt Logo.jpg"
+              src="/alphacore-logo.jpg"
               alt="Alphacore Development"
               width={96}
               height={96}

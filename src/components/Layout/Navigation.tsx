@@ -53,7 +53,7 @@ const Navigation: React.FC = () => {
       <Container>
         <Navbar.Brand as={Link} href="/" className="d-flex align-items-center">
           <Image
-            src="/Alphacore Devt Logo.jpg"
+            src="/alphacore-logo.jpg"
             alt="Alphacore Development"
             width={40}
             height={40}
